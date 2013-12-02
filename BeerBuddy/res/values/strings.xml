@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeerBuddy</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="minilogodesc">Logo</string>
+    <string name="search_hint">Click to Search</string>
+    <string name="feed">News Feed</string>
+    <string name="teste">TESTANDO</string>
+    <string name="title_activity_beer_info">BeerInfoActivity</string>
+
+</resources>
